@@ -5,7 +5,7 @@ const Footer: React.FC = () => {
 
     return (
         <>
-            <div>
+            <footer>
                 <section>
                     <h3>Support</h3>
                     <ul>
@@ -59,7 +59,7 @@ const Footer: React.FC = () => {
                         </li>
                     </ul>
                 </section>
-            </div>
+            </footer>
         </>
     )
 };
